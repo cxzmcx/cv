@@ -20,9 +20,9 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
+  name: "陈希",
   initials: "BJ",
-  location: "Wrocław, Poland, CET",
+  location: "北京，朝阳",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
     "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
